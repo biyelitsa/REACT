@@ -1,0 +1,15 @@
+a.header-text{
+    color:white;
+    font-size: large;
+    font-weight: bold;
+}
+a.header-button{
+float:right;
+color:aliceblue;
+font-size: large;
+padding-left: 18px;
+padding-right: 18px;
+}
+a.header-button:hover{
+    background-color: blue;
+}
